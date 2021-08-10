@@ -2,10 +2,10 @@
 If you are here I suppose that you have completed an interview with Quarks Group. Next step is to complete this challenge so that we get a clear understand of your technical capabilities and where you might fit in our team.
 
 ## Introduction
-Name: Floride Tuyisenge
-Email: flo.tuyisenge@gmail.com
-Phone:+0780674917
-About me: Experienced software developer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Skilled leader who has the proven ability to motivate, educate, and manage a team of professionals to build software programs and effectively track changes. Confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company’s organizational needs, highlight their core competencies, and further their success.
+* Name: Floride Tuyisenge
+* Email: flo.tuyisenge@gmail.com
+* Phone:+0780674917
+* About me: Experienced software developer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Skilled leader who has the proven ability to motivate, educate, and manage a team of professionals to build software programs and effectively track changes. Confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company’s organizational needs, highlight their core competencies, and further their success.
 
 ## Challenge Details
 
