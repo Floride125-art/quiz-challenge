@@ -35,7 +35,7 @@
                             <input type="password" name="password" class="form-control">
                         </div> 
                         <div class="form-group text-right">
-                            <button class="btn btn-primary btn-block"  style="background-color:purple" name="submit">Login</button>
+                            <a><button class="btn btn-primary btn-block"  style="background-color:purple" name="submit">Login</button></a>
                         </div>
                         
                     </form>
