@@ -9,8 +9,10 @@
 </head>
 <body>
 	<?php include('nav_bar.php') ?>
+
 	
 	<div class="container-fluid admin">
+		
 		<div class="col-md-12 alert alert-primary" style="background-color:#DA70D6; color:white">Quiz List</div>
 		<button class="btn btn-primary bt-sm" id="new_quiz" style="background-color:purple; color:white"><i class="fa fa-plus"></i>	Add New</button>
 		<br>
@@ -26,7 +28,7 @@
 							<th>Items</th>
 							<th>Point per Items</th>
 							<?php if($_SESSION['login_user_type'] ==1): ?>
-							<th>Faculty</th>
+							<th>Teacher's name</th>
 							<?php endif; ?>
 							<th>Action</th>
 						</tr>
@@ -90,7 +92,7 @@
 								</div>
 								<?php if($_SESSION['login_user_type'] == 1): ?>
 								<div class="form-group">
-									<label>Faculty</label>
+									<label>Teacher's name</label>
 									<select name="user_id" required="required" class="form-control" />
 									<option value="" selected="" disabled="">Select Here</option>
 									<?php

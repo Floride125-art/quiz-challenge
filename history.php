@@ -11,7 +11,7 @@
 	<?php include('nav_bar.php') ?>
 	
 	<div class="container-fluid admin">
-		<div class="col-md-12 alert alert-primary"  style="background-color:#DA70D6; color: black">Quiz Records</div>
+		<div class="col-md-12 alert alert-primary"  style="background-color:#DA70D6; color: white">Quiz Records</div>
 		<br>
 		<div class="col-md-4 offset-md-4 mb-4">
 			<select class="form-control select2" onchange="location.replace('history.php?quiz_id='+this.value)">

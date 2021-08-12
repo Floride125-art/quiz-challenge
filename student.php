@@ -11,8 +11,8 @@
 	<?php include('nav_bar.php') ?>
 	
 	<div class="container-fluid admin">
-		<div class="col-md-12 alert alert-primary">Student List</div>
-		<button class="btn btn-primary bt-sm" id="new_student"><i class="fa fa-plus"></i>	Add New</button>
+		<div class="col-md-12 alert alert-primary" style="background-color:#DA70D6; color:white">Student List</div>
+		<button class="btn btn-primary bt-sm" id="new_student" style="background-color:purple;"><i class="fa fa-plus"></i>	Add New</button>
 		<br>
 		<br>
 		<div class="card">

@@ -18,6 +18,11 @@
 			<?php if($_SESSION['login_user_type'] == 1): ?>
 			
 		<?php endif; ?>
+		<div id="sidebar-field">
+				<a href="student.php" class="sidebar-item text-dark">
+						<div class="sidebar-icon"><i class="fa fa-users"> </i></div>  Student List
+				</a>
+			</div>
 			
 			<div id="sidebar-field">
 				<a href="quiz.php" class="sidebar-item text-dark">

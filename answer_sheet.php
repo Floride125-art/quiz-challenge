@@ -26,7 +26,7 @@
 	<?php include('nav_bar.php') ?>
 	
 	<div class="container-fluid admin">
-		<div class="col-md-12 alert alert-primary"><?php echo $quiz['title'] ?> | <?php echo $quiz['qpoints'] .' Points Each Question' ?></div>
+		<div class="col-md-12 alert alert-primary" style="background-color:#DA70D6; color:white"><?php echo $quiz['title'] ?> | <?php echo $quiz['qpoints'] .' Points Each Question' ?></div>
 		<br>
 		<div class="card">
 			<div class="card-body">
@@ -60,7 +60,7 @@
 				</ul>
 
 				<?php } ?>
-				<button class="btn btn-block btn-primary">Submit</button>
+				<button class="btn btn-block btn-primary" style="background-color:purple">Submit</button>
 				</form>
 			</div>	
 		</div>

@@ -20,6 +20,10 @@
 		<div class="card col-md-4 offset-md-4 mt-4">
                 <div class="text-black text-center">
                     <strong>Login</strong>
+                    <strong>For the admin login using:</strong><br>
+                    <strong>username: admin</strong><br>
+                    <strong>password: admin123</strong><br>
+                    <strong>Login as student using credentials you provided while adding students in admin</strong>
                 </div>
             <div class="card-body">
                      <form id="login-frm">
@@ -31,7 +35,7 @@
                             <input type="password" name="password" class="form-control">
                         </div> 
                         <div class="form-group text-right">
-                            <button class="btn btn-primary btn-block" name="submit">Login</button>
+                            <button class="btn btn-primary btn-block"  style="background-color:purple" name="submit">Login</button>
                         </div>
                         
                     </form>

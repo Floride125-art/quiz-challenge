@@ -22,7 +22,8 @@
                     <strong>Login</strong>
                     <strong>For the admin login using:</strong><br>
                     <strong>username: admin</strong><br>
-                    <strong>password: admin123</strong>
+                    <strong>password: admin123</strong><br>
+                    <strong>Login as student using credentials you provided while adding students in admin</strong>
                 </div>
             <div class="card-body">
                      <form id="login-frm">
