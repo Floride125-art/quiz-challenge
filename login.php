@@ -26,7 +26,7 @@
                     <strong>Login as student using credentials you provided while adding students in admin</strong>
                 </div>
             <div class="card-body">
-                     <form id="login-frm">
+                     <form id="login-frm" >
                         <div class="form-group">
                             <label>Username</label>
                             <input type="username" name="username" class="form-control">
